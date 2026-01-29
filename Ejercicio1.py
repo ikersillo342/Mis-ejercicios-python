@@ -1,6 +1,7 @@
 # Ejercicio 1
 # python
 # Saludo personalizado, pide el nombre, edad y muestra el mensaje: Hola {nombre}, tienes {edad} años. 
+
 # Y si tiene menos de 18 años mostrar eres menor de edad.
 
 #Pedimos el nombre al usuario (input siempre guarda texto por defecto)
