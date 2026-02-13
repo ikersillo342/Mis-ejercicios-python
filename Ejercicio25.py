@@ -3,7 +3,7 @@
 # Comprobar si una contraseña es segura.
 
 # 1. Pedimos las contraseñas y las convertimos en una lista usando la coma como separador
-user_passw = input("Dame una varias contraseñas: ").split(",")
+user_passw = input("Dame una varias contraseñas separadas por comas: ").split(",")
 
 # 2. Creamos la lista vacía donde iremos guardando solo las que cumplan los requisitos
 validas = [ ]
